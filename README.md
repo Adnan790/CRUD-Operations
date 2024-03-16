@@ -1,6 +1,6 @@
 # CRUD OPERATION
 
-Express Generator link to Generate Skeleton Of Node Appication:
+Express Generator link to Generate Skeleton Of Node Application:
 
 <https://expressjs.com/en/starter/generator.html>
 
@@ -8,13 +8,13 @@ command:
 
 npm install -g express-generator
 
-if powershell is disabled use this command:
+if PowerShell is disabled use this command:
 
 Set-ExecutionPolicy RemoteSigned
 
 Using MVC Pattern
 Controller
- -> Controller.js file in which all all the API'S
+ -> Controller.js file in which all the API
 
  Model
 model.js -> user data model like (user schema)
@@ -22,5 +22,5 @@ model.js -> user data model like (user schema)
 Routes
 routes.js-> all the routes like Get, Post etc
 
-Helpler
+Helper
 bcrypt.js-> To hash the password
